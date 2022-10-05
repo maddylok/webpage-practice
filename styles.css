@@ -1,0 +1,93 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+    padding: 0;
+    margin: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    background-color: rgb(225, 168, 25);
+    border-color: rgb(244, 234, 158);
+    color: white;
+    font-family: monospace;
+}
+
+
+
+.eggpic {
+    height: 75px;
+    width: 75px;
+    display: flex;
+    padding: 0;
+    margin: 0px;
+}
+
+.sunsetpic {
+    height: 169px;
+    width: 300px;
+}
+
+.welcome {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.subheader {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgba(249, 216, 201, 0.901);
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 16px;
+    background-color: rgba(249, 216, 201, 0.901);
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fffdd1;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: #fffdd1;
+    padding: 30px;
+}
+
+.info img {
+    width: 200px;
+    height: 200px;
+}
+
+.info {
+    text-align: center;
+}
+
+
+
+
